@@ -1,7 +1,5 @@
 ### Hi there Welcome to my Git account. 👋🌻
 
-Welcome to my repository.
-
 I am Maria de los Angeles and I am currently in my fifth semester of Data Engineering and Artificial Intelligence; and this is a very important space for me, because here I will be sharing many of the projects that I will be doing during my university journey.
 
 Throughout my university career, I have had the good fortune to participate in projects that have
