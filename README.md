@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there Welcome to my Git account. 👋🌻
 
-<!--
-**mdlangeles/mdlangeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repository.
 
-Here are some ideas to get you started:
+I am Maria de los Angeles and I am currently in my fifth semester of Data Engineering and Artificial Intelligence; and this is a very important space for me, because here I will be sharing many of the projects that I will be doing during my university journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout my university career, I have had the good fortune to participate in projects that have
+projects that have strengthened my analytical skills and problem-solving abilities.
+
+My analytical skills and my ability to solve problems. My dedication has allowed me to
+me to stand out as a committed student, achieving significant recognitions, such as graduating with academic excellence
+with academic excellence at my educational institution.
+
+My enthusiasm for research has led me to be part of research groups where I have had the opportunity to
+research seedlings, where I have had the opportunity to develop projects with social
+projects with social impact and to acquire advanced technical skills.
+advanced technical skills.
+
+- 💜 I am one of the coordinators of the MEI (Women In Engineering) group at my university.
+- 💻 I took the Web Programming from scratch course from Egg company.
+- 🎤 I belonged to the Data Analytics research group, being a speaker in a project carried out at the Universidad Autónoma de Occidente.
+- 🌻 I currently belong to the SIGMA research group, developing social impact projects at Fundautónoma, a foundation of the Universidad Autónoma de Occidente.
+
+
+👜 You can follow me on my Linkedin account: [Linkedin](https://www.linkedin.com/in/maria-de-los-%C3%A1ngeles-am%C3%BA-moreno-00b6b0255/)
