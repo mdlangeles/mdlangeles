@@ -14,7 +14,7 @@ research seedlings, where I have had the opportunity to develop projects with so
 projects with social impact and to acquire advanced technical skills.
 
 - 💜 I am one of the coordinators of the MEI (Women In Engineering) group at my university.
-- 💻 I took the Web Programming from scratch course from Egg company.
+- 💻 I took the Web Programming from scratch course from Egg company in 2023.
 - 🎤 I belonged to the Data Analytics research group, being a speaker in a project carried out at the Universidad Autónoma de Occidente.
 - 🌻 I currently belong to the SIGMA research group, developing social impact projects at Fundautónoma, a foundation of the Universidad Autónoma de Occidente.
 
