@@ -12,7 +12,6 @@ with academic excellence at my educational institution.
 My enthusiasm for research has led me to be part of research groups where I have had the opportunity to
 research seedlings, where I have had the opportunity to develop projects with social
 projects with social impact and to acquire advanced technical skills.
-advanced technical skills.
 
 - 💜 I am one of the coordinators of the MEI (Women In Engineering) group at my university.
 - 💻 I took the Web Programming from scratch course from Egg company.
