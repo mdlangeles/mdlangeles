@@ -21,6 +21,7 @@ projects with social impact and to acquire advanced technical skills.
 - Python 
 - PostgreSQL
 - HTML
-- Some basics and learning in Docker, PowerBI & Neo4j.
+- PowerBI
+- Some basics and learning in Docker & Neo4j.
 
 👜 You can follow me on my Linkedin account: [Linkedin](https://www.linkedin.com/in/maria-de-los-%C3%A1ngeles-am%C3%BA-moreno-00b6b0255/)
