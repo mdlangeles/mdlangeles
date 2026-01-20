@@ -1,12 +1,8 @@
 ### Hi there and welcome to my Git account. 👋🌻
 
-I am Maria de los Angeles and I am currently in my fifth semester of Data Engineering and Artificial Intelligence; and this is a very important space for me, because here I will be sharing many of the projects that I will be doing during my university journey.
+I am a Data Engineering and Artificial Intelligence Engineer, with strong interest in data analytics, machine learning, data pipelines, and AI-driven solutions. I have completed all my university coursework and my graduation is scheduled for May 23.
 
-Throughout my university career, I have had the good fortune to participate in projects that have strengthened my analytical skills and problem-solving abilities.
-
-My analytical skills and my ability to solve problems. My dedication has allowed me to
-me to stand out as a committed student, achieving significant recognitions, such as graduating
-with academic excellence at my educational institution.
+This GitHub repository serves as my technical portfolio, where I share projects developed throughout my academic, research, and applied experience, focused on transforming data into actionable insights and real-world solutions.
 
 My enthusiasm for research has led me to be part of research groups where I have had the opportunity to
 research seedlings, where I have had the opportunity to develop projects with social
